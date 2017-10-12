@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BoxedUpTest.data.unityweb",
+"asmCodeUrl": "BoxedUpTest.asm.code.unityweb",
+"asmMemoryUrl": "BoxedUpTest.asm.memory.unityweb",
+"asmFrameworkUrl": "BoxedUpTest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
